@@ -35,7 +35,7 @@ Posteriormente foquei em criar a recursividade do sistema, trazendo a utilizaç�
 fundamental para utilização da aplicação e testes. Com o sistema funcionando de forma recursiva, incrementei alguns tratamentos básicos de exceção, para dar um pouco mais de
 estabilidade nos testes.
 
-Com uma funcionalidade implementada e o sistema funcionando de forma automática, restava implementar as funcionalidades de retirada e devolução ed livros. Para isso criei um 
+Com uma funcionalidade implementada e o sistema funcionando de forma automática, restava implementar as funcionalidades de retirada e devolução de livros. Para isso criei um 
 sub-menu que fizesse o filtro de livros armazenados no meu array de objetos, onde o mesmo traria o total de livros e apresentaria os disponíveis e os indisponíveis para que
 assim fosse capaz de ter o controle do quantitativo total de livros e para quem aquele determinado livro estava emprestado. Mais uma vez me fiz valer de algumas condicionais 
 para tratar exceções dentro do sistema e assim controlar um pouco melhor as ações possíveis no que tanje a interação do usuário na aplicação.
